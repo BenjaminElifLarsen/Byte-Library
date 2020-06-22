@@ -1,0 +1,10 @@
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\bin\Release\netstandard2.0\ConverterLibrary.deps.json
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\bin\Release\netstandard2.0\ConverterLibrary.dll
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\bin\Release\netstandard2.0\ConverterLibrary.pdb
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\Test.csprojAssemblyReference.cache
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\Test.AssemblyInfoInputs.cache
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\Test.AssemblyInfo.cs
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\ConverterLibrary.dll
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\ConverterLibrary.pdb
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\obj\Release\netstandard2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin Elif Larsen\Desktop\LibraryTest\Test\bin\Release\netstandard2.0\ConverterLibrary.xml
